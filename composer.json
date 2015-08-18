@@ -1,0 +1,21 @@
+{
+    "name": "languid01/yii2-contacts",
+    "description": "Extension to manage contacts",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","contacts"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Richard Lees",
+            "email": "lang@riccaro.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "languid01\\contacts\\": ""
+        }
+    }
+}
