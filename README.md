@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Contacts Manager
 ================
 Extension to manage contacts
@@ -29,3 +30,9 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \languid01\contacts\AutoloadExample::widget(); ?>```
+=======
+# yii2-contacts
+Contact Manager
+
+Highly unstable extension - DO NOT USE
+>>>>>>> origin/master
